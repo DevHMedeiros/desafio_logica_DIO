@@ -2,7 +2,7 @@
 var nome = "Felipeira";
 
 // Variável para armazenar a quantidade de XP do herói
-var xp = 8000;
+var xp = 9000;
 
 // Variável para armazenar o nível do herói
 var nivel;
